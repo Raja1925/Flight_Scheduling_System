@@ -35,7 +35,7 @@ FlightScheduling/
 ### 1. Navigate to the Project Directory:
 Replace "file_location" with the actual path of the folder on your system:
 
-  cd "file_location"\RajaKumarSingh_2101793_CEC_TBL2_M2_06-04-25\FlightScheduling
+  cd "file_location"\FlightScheduling
 
 ### 2. Compile the Project:
   make
